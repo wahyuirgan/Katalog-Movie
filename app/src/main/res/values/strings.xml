@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="judul">Judul</string>
+    <string name="rilis">Tanggal Rilis </string>
+    <string name="tglrilis">Senin, 16 Jul 2018</string>
+    <string name="ratingf">Rating Film  </string>
+    <string name="rating">Rating</string>
+    <string name="bhs">Bahasa Asli </string>
+    <string name="bhsasl">Bahasa</string>
+    <string name="sinopsis">OVERVIEW</string>
+    <string name="detail">detail</string>
+    <string name="jdlats">Judul Atas</string>
+    <string name="hasil">pencarian</string>
+    <string name="desc">this is the description of the movie</string>
+</resources>
